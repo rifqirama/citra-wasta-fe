@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/logosecond.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Citra Wastra</title>
+    <meta
+      name="description"
+      content="Citra Wastra adalah platform modern untuk deteksi motif wastra dan pengelolaan data budaya yang cepat, akurat, dan ramah pengguna."
+    />
+    <style>
+      :root {
+        background-color: #ffffff;
+        color: #111827;
+      }
+      :root.dark {
+        background-color: #111827;
+        color: #f9fafb;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        background-color: inherit;
+        color: inherit;
+      }
+      #root {
+        min-height: 100vh;
+      }
+    </style>
+    <script>
+      (function() {
+        const theme = localStorage.getItem('theme');
+        if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

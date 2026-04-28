@@ -1,0 +1,656 @@
+[
+  {
+    "index": 0,
+    "name": "Batik Bali Barong",
+    "philosophy": "Batik Bali Barong adalah simbol kekuatan pelindung dan kemenangan kebajikan atas keburukan yang tercermin dalam visualisasi sosok Barong yang sakral. Motif ini mengisahkan penjagaan kosmis terhadap jiwa manusia, mengajarkan keberanian dalam menghadapi tantangan hidup serta pentingnya menjaga keseimbangan antara dunia material dan spiritual.",
+    "location": "Bali, Denpasar"
+  },
+  {
+    "index": 1,
+    "name": "Batik Bali Merak",
+    "philosophy": "Batik Bali Merak ialah manifestasi keanggunan dan kemuliaan yang terpancar dari keindahan burung merak yang mempesona. Polanya mengisahkan tentang martabat yang tinggi dan kepercayaan diri, mengajarkan setiap individu untuk berani menunjukkan potensi terbaiknya tanpa kehilangan sisi kelembutan.",
+    "location": "Bali, Gianyar"
+  },
+  {
+    "index": 2,
+    "name": "Batik Jakarta Ondelondel",
+    "philosophy": "Batik Jakarta Ondelondel berasal dari semangat kebersamaan dan perlindungan kota dari energi negatif yang direpresentasikan melalui ikon legendaris Betawi. Melalui garis yang dinamis, ia mengisahkan keceriaan hidup masyarakat yang inklusif, mengajarkan pentingnya menjaga akar tradisi di tengah arus modernisasi.",
+    "location": "DKI Jakarta, Jakarta Pusat"
+  },
+  {
+    "index": 3,
+    "name": "Batik Jakarta Tumpal",
+    "philosophy": "Batik Jakarta Tumpal adalah motif geometris segitiga yang merefleksikan keselarasan hubungan antara Tuhan, manusia, dan alam semesta. Polanya mengisahkan tentang pagar pelindung diri, mengajarkan manusia untuk memiliki batasan moral yang kuat dan integritas tinggi agar senantiasa berada dalam jalur kebenaran.",
+    "location": "DKI Jakarta, Jakarta Timur"
+  },
+  {
+    "index": 4,
+    "name": "Batik Jawa Barat Megamendung",
+    "philosophy": "Batik Jawa Barat Megamendung ialah perlambang kesabaran dan ketenangan hati dalam menghadapi dinamika kehidupan yang terinspirasi dari cakrawala pesisir. Polanya mengisahkan tentang jiwa yang luas dan peneduh, mengajarkan manusia untuk meredam amarah dan menjadi sosok yang memberikan kesejukan bagi lingkungan.",
+    "location": "Jawa Barat, Cirebon"
+  },
+  {
+    "index": 5,
+    "name": "Batik Jawa Tengah Arumdalu",
+    "philosophy": "Batik Jawa Tengah Arumdalu berasal dari keharuman malam yang mengisahkan tentang kemuliaan yang tetap terjaga meski dalam kesunyian. Melalui keanggunan lekukannya, ia mengajarkan nilai keikhlasan dalam memberikan manfaat bagi sesama tanpa perlu mencari pengakuan, layaknya bunga yang tetap wangi.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 6,
+    "name": "Batik Jawa Tengah Asemarang",
+    "philosophy": "Batik Jawa Tengah Asemarang adalah identitas kuat yang merefleksikan keteduhan dan daya tahan hidup melalui simbol pohon asam yang legendaris. Polanya mengisahkan sejarah panjang kota pesisir, mengajarkan tentang adaptasi dan keterbukaan dalam menerima keberagaman budaya.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 7,
+    "name": "Batik Jawa Tengah Asemsinom",
+    "philosophy": "Batik Jawa Tengah Asemsinom ialah representasi tunas-tunas muda yang mengisahkan tentang harapan baru dan semangat pertumbuhan yang selalu segar. Melalui garis-garis yang luwes, ia mengajarkan pentingnya inovasi dan pemikiran muda yang tetap menghargai akar tradisi.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 8,
+    "name": "Batik Jawa Tengah Asemwarak",
+    "philosophy": "Batik Jawa Tengah Asemwarak berasal dari akulturasi budaya yang unik antara pohon asam dan makhluk mitologi Warak Ngendog yang harmonis. Ia mengisahkan tentang kerukunan etnis dan toleransi, mengajarkan manusia untuk merayakan perbedaan sebagai kekuatan kolektif.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 9,
+    "name": "Batik Jawa Tengah Blekok",
+    "philosophy": "Batik Jawa Tengah Blekok adalah visualisasi burung rawa yang merefleksikan kelestarian alam pesisir dan kebebasan jiwa yang murni. Motifnya mengisahkan tentang keseimbangan ekosistem, mengajarkan manusia untuk hidup berdampingan secara harmonis dengan makhluk hidup lainnya.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 10,
+    "name": "Batik Jawa Tengah Cindewilis",
+    "philosophy": "Batik Jawa Tengah Cindewilis ialah motif yang merefleksikan kejernihan hati dan ketenangan batin abadi dari lingkungan keraton. Polanya mengisahkan aliran keberkahan yang terus-menerus, mengajarkan manusia untuk menjaga kemurnian niat dalam setiap perbuatan agar hidup dipenuhi kedamaian.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 11,
+    "name": "Batik Jawa Tengah Cipratan",
+    "philosophy": "Batik Jawa Tengah Cipratan berasal dari kebebasan berekspresi tanpa batas yang mengisahkan kekuatan kreativitas di tengah keterbatasan fisik maupun sosial. Melalui teknik cipratan yang unik, ia mengajarkan bahwa setiap individu memiliki keunikan berharga dan semangat pantang menyerah.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 12,
+    "name": "Batik Jawa Tengah Gambangsemarangan",
+    "philosophy": "Batik Jawa Tengah Gambangsemarangan adalah motif yang terinspirasi dari irama musik tradisional, merefleksikan harmoni kehidupan yang penuh kegembiraan. Ia mengisahkan tentang sinergi antarmanusia, mengajarkan pentingnya menyelaraskan perbedaan menjadi satu nada yang indah.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 13,
+    "name": "Batik Jawa Tengah Ikankerang",
+    "philosophy": "Batik Jawa Tengah Ikankerang ialah cerminan kekayaan biota laut pesisir utara yang mengisahkan tentang kemakmuran dan sumber rezeki melimpah dari alam. Melalui detailnya, ia mengajarkan rasa syukur atas anugerah semesta serta pentingnya mengelola potensi alam secara bijaksana.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 14,
+    "name": "Batik Jawa Tengah Jagunglombok",
+    "philosophy": "Batik Jawa Tengah Jagunglombok berasal dari kesuburan agraris yang mengisahkan semangat hidup membara melalui simbol hasil bumi yang produktif. Ia merefleksikan ketahanan pangan dan kerja keras, mengajarkan manusia untuk tekun dalam mengolah bidangnya masing-masing.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 15,
+    "name": "Batik Jawa Tengah Jambubelimbing",
+    "philosophy": "Batik Jawa Tengah Jambubelimbing adalah simbol keramah-tamahan dan rasa syukur atas manisnya anugerah alam yang tumbuh di tanah walisongo. Ia mengisahkan tentang manfaat sosial seorang manusia, mengajarkan setiap individu untuk menjadi pribadi yang berguna dan menyenangkan bagi sesama.",
+    "location": "Jawa Tengah, Demak"
+  },
+  {
+    "index": 16,
+    "name": "Batik Jawa Tengah Jambucitra",
+    "philosophy": "Batik Jawa Tengah Jambucitra ialah visualisasi jambu merah yang merefleksikan keindahan fisik dan kelembutan hati masyarakat setempat. Motifnya mengisahkan tentang kasih sayang yang tulus, mengajarkan manusia untuk memancarkan aura positif melalui hal-hal sederhana.",
+    "location": "Jawa Tengah, Demak"
+  },
+  {
+    "index": 17,
+    "name": "Batik Jawa Tengah Jayakusuma",
+    "philosophy": "Batik Jawa Tengah Jayakusuma berasal dari bunga kejayaan yang mengisahkan tentang kemenangan jiwa atas segala rintangan duniawi yang berat. Melalui keanggunan garisnya, ia mengajarkan tentang keteguhan prinsip dan pencapaian spiritual yang tinggi bagi mereka yang bersabar.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 18,
+    "name": "Batik Jawa Tengah Jlamprang",
+    "philosophy": "Batik Jawa Tengah Jlamprang adalah motif geometris yang merefleksikan kejujuran dan hubungan vertikal antara manusia dengan Sang Pencipta. Ia mengisahkan tentang keterbukaan masyarakat pesisir, mengajarkan pentingnya integritas dan tatanan hidup yang teratur.",
+    "location": "Jawa Tengah, Pekalongan"
+  },
+  {
+    "index": 19,
+    "name": "Batik Jawa Tengah Kembangsepatu",
+    "philosophy": "Batik Jawa Tengah Kembangsepatu ialah simbol kecantikan sederhana yang mengisahkan kemampuan adaptasi manusia di berbagai situasi sosial yang dinamis. Ia mengajarkan tentang fleksibilitas hidup tanpa mengorbankan jati diri, mengingatkan kita untuk tetap mekar indah.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 20,
+    "name": "Batik Jawa Tengah Kemukus",
+    "philosophy": "Batik Jawa Tengah Kemukus berasal dari visualisasi tanaman obat yang merefleksikan kehangatan dan kesehatan bagi masyarakat luas. Motifnya mengisahkan tentang nilai guna seorang manusia, mengajarkan kita untuk memberikan dampak positif bagi kesehatan sosial di sekeliling.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 21,
+    "name": "Batik Jawa Tengah Laut",
+    "philosophy": "Batik Jawa Tengah Laut adalah perlambang keluasan hati layaknya samudra yang mengisahkan kedalaman ilmu dan ketenangan batin yang hakiki. Ia mengajarkan manusia untuk memiliki jiwa yang lapang dalam menerima takdir serta kesiapan mental menghadapi ombak tantangan.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 22,
+    "name": "Batik Jawa Tengah Luriksemangka",
+    "philosophy": "Batik Jawa Tengah Luriksemangka ialah perpaduan motif tenun dan tekstur buah yang merefleksikan kesederhanaan lahiriah dengan kedalaman batin yang kaya. Ia mengisahkan tentang karakter yang ramah, mengajarkan pentingnya kemurnian sikap di balik penampilan yang bersahaja.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 23,
+    "name": "Batik Jawa Tengah Masjidagungdemak",
+    "philosophy": "Batik Jawa Tengah Masjidagungdemak berasal dari keteguhan iman dan sejarah peradaban spiritual yang mengisahkan kejayaan masa lampau. Ia mengajarkan penghormatan terhadap warisan leluhur dan pentingnya menjaga nilai religi sebagai kompas dalam menjalani kehidupan.",
+    "location": "Jawa Tengah, Demak"
+  },
+  {
+    "index": 24,
+    "name": "Batik Jawa Tengah Mawur",
+    "philosophy": "Batik Jawa Tengah Mawur adalah motif bintik halus yang merefleksikan ketelitian dan apresiasi terhadap proses-proses kecil dalam perjalanan hidup. Ia mengisahkan bahwa setiap hal kecil yang dilakukan konsisten akan membentuk kemuliaan besar, mengajarkan manusia untuk menghargai setiap langkah.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 25,
+    "name": "Batik Jawa Tengah Naga",
+    "philosophy": "Batik Jawa Tengah Naga ialah simbol kewibawaan dan perlindungan spiritual yang mengisahkan tentang kekuatan pengayom masyarakat. Ia mengajarkan kepemimpinan yang berani dalam membela kebenaran serta tanggung jawab untuk menjaga keselamatan orang banyak.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 26,
+    "name": "Batik Jawa Tengah Parangkusumo",
+    "philosophy": "Batik Jawa Tengah Parangkusumo berasal dari tradisi keraton yang merefleksikan keharuman pribadi yang dicapai melalui disiplin diri yang sangat teguh. Ia mengisahkan tentang perjuangan menjadi manusia unggul, mengajarkan bahwa kemuliaan hanya dapat diraih melalui pengorbanan.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 27,
+    "name": "Batik Jawa Tengah Parangslobog",
+    "philosophy": "Batik Jawa Tengah Parangslobog adalah motif yang merefleksikan transisi kehidupan dan harapan akan kelancaran perjalanan jiwa menuju keabadian. Polanya mengisahkan tentang keikhlasan dan kepasrahan kepada Tuhan, mengajarkan manusia untuk selalu siap menghadapi perubahan besar.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 28,
+    "name": "Batik Jawa Tengah Rengganis",
+    "philosophy": "Batik Jawa Tengah Rengganis ialah representasi kecantikan batin dan keteguhan prinsip wanita yang terinspirasi dari sosok putri legendaris. Ia mengisahkan tentang martabat yang terjaga melalui perilaku santun, mengajarkan pentingnya kecerdasan emosional dalam memimpin.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 29,
+    "name": "Batik Jawa Tengah Sarimulat",
+    "philosophy": "Batik Jawa Tengah Sarimulat berasal dari ketajaman visi dan pandangan hidup luas yang mengisahkan tentang kearifan dalam melihat realitas dunia. Ia mengajarkan manusia untuk memiliki pertimbangan matang sebelum bertindak demi menjaga ketenteraman bersama.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 30,
+    "name": "Batik Jawa Tengah Sekargudhe",
+    "philosophy": "Batik Jawa Tengah Sekargudhe adalah keindahan bunga yang tumbuh subur, mengisahkan tentang keharmonisan dan kasih sayang dalam ikatan keluarga. Ia mengajarkan pentingnya merawat hubungan sosial dengan penuh perhatian agar kehidupan senantiasa merekah indah.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 31,
+    "name": "Batik Jawa Tengah Semarangan",
+    "philosophy": "Batik Jawa Tengah Semarangan ialah representasi ikonik yang merefleksikan kebanggaan akan identitas lokal dan kemajuan daerah yang pesat. Ia mengisahkan semangat gotong royong warga, mengajarkan pentingnya persatuan dalam membangun tatanan modern yang tetap berpijak pada tradisi.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 32,
+    "name": "Batik Jawa Tengah Sidoluhur",
+    "philosophy": "Batik Jawa Tengah Sidoluhur berasal dari doa suci akan keluhuran budi pekerti dan martabat yang tinggi bagi pemakainya di mata masyarakat. Motif ini mengisahkan tentang pencapaian kesempurnaan hidup, mengajarkan manusia untuk terus mengasah kualitas batinnya.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 33,
+    "name": "Batik Jawa Tengah Sritaman",
+    "philosophy": "Batik Jawa Tengah Sritaman adalah visualisasi taman istana asri yang merefleksikan ketenangan batin dan harmoni dalam berumah tangga. Motif ini mengisahkan tentang kedamaian, mengajarkan setiap individu untuk menciptakan lingkungan yang menyejukkan.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 34,
+    "name": "Batik Jawa Tengah Tanjunggunung",
+    "philosophy": "Batik Jawa Tengah Tanjunggunung ialah motif yang merefleksikan keteguhan hati sekuat gunung dan kemanfaatan diri seluas tanjung. Ia mengisahkan prinsip hidup yang kokoh, mengajarkan manusia untuk menjadi pelindung bagi yang lemah dan tetap tegak berdiri.",
+    "location": "Jawa Tengah, Boyolali"
+  },
+  {
+    "index": 35,
+    "name": "Batik Jawa Tengah Tebubambu",
+    "philosophy": "Batik Jawa Tengah Tebubambu berasal dari keseimbangan antara ketegasan dan fleksibilitas yang mengisahkan perpaduan rasa manis tebu dan kekuatan bambu. Ia mengajarkan manusia untuk memiliki integritas tinggi namun tetap lembut dalam menjalin hubungan dengan sesama.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 36,
+    "name": "Batik Jawa Tengah Tembakau",
+    "philosophy": "Batik Jawa Tengah Tembakau adalah perlambang kemakmuran dari hasil bumi yang mengisahkan rasa syukur atas berkah tanah agraris yang subur. Ia mengajarkan ketekunan dalam bekerja dan harapan akan ekonomi yang terus berkembang demi kesejahteraan para petani.",
+    "location": "Jawa Tengah, Temanggung"
+  },
+  {
+    "index": 37,
+    "name": "Batik Jawa Tengah Truntum",
+    "philosophy": "Batik Jawa Tengah Truntum ialah simbol cinta kasih yang tulus dan selalu bersemi kembali layaknya bintang-bintang di langit malam. Motif ini mengisahkan tentang kesetiaan abadi, mengajarkan manusia untuk selalu menjaga api kasih sayang agar memberikan cahaya.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 38,
+    "name": "Batik Jawa Tengah Tugumuda",
+    "philosophy": "Batik Jawa Tengah Tugumuda berasal dari semangat patriotisme yang mengisahkan tentang pengorbanan dan keberanian membela kehormatan bangsa. Ia mengajarkan generasi penerus untuk selalu menghargai sejarah perjuangan dan meneruskan nilai kepahlawanan.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 39,
+    "name": "Batik Jawa Tengah Warakberasutah",
+    "philosophy": "Batik Jawa Tengah Warakberasutah adalah motif yang merefleksikan kemakmuran melimpah dan keberkahan rezeki yang tumpah ruah bagi masyarakat. Ia mengisahkan tentang kedermawanan, mengajarkan manusia bahwa rezeki harus dibagikan kembali sebagai bentuk kepedulian.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 40,
+    "name": "Batik Jawa Tengah Worawarirumpuk",
+    "philosophy": "Batik Jawa Tengah Worawarirumpuk ialah perlambang keteraturan hidup dan keharmonisan masyarakat melalui susunan bunga yang tertata sangat rapi. Ia mengisahkan tentang pentingnya tatanan sosial, mengajarkan manusia untuk bekerja dalam sinergi yang kolektif.",
+    "location": "Jawa Tengah, Surakarta"
+  },
+  {
+    "index": 41,
+    "name": "Batik Jawa Tengah Yuyu",
+    "philosophy": "Batik Jawa Tengah Yuyu berasal dari ketangguhan dan kegigihan bertahan hidup yang disimbolkan melalui sosok kepiting sawah yang ulet. Motif ini mengisahkan tentang semangat bekerja keras dari bawah, mengajarkan kesederhanaan yang bermartabat.",
+    "location": "Jawa Tengah, Semarang"
+  },
+  {
+    "index": 42,
+    "name": "Batik Jawa Timur Gentongan",
+    "philosophy": "Batik Jawa Timur Gentongan adalah cerminan kesabaran luar biasa melalui proses pewarnaan alami yang memakan waktu lama di dalam gentong. Ia mengisahkan tentang kematangan karakter yang ditempa oleh ujian zaman, mengajarkan bahwa hasil berharga membutuhkan ketekunan.",
+    "location": "Jawa Timur, Bangkalan"
+  },
+  {
+    "index": 43,
+    "name": "Batik Jawa Timur Pring",
+    "philosophy": "Batik Jawa Timur Pring ialah simbol persatuan dan kerukunan melalui visualisasi rumpun bambu yang saling menguatkan satu sama lain. Motif ini mengisahkan tentang kekuatan kolektif, mengajarkan manusia untuk hidup berdampingan secara harmonis.",
+    "location": "Jawa Timur, Magetan"
+  },
+  {
+    "index": 44,
+    "name": "Batik Kalimantan Barat Insang",
+    "philosophy": "Batik Kalimantan Barat Insang berasal dari napas kehidupan yang mengalir di sepanjang sungai, mengisahkan kegigihan masyarakat dalam mencari rezeki. Ia mengajarkan tentang sinkronisasi antara manusia dengan alam perairan, mengingatkan pentingnya menjaga sumber kehidupan.",
+    "location": "Kalimantan Barat, Pontianak"
+  },
+  {
+    "index": 45,
+    "name": "Batik Kalimantan Dayak",
+    "philosophy": "Batik Kalimantan Dayak adalah simbol hubungan sakral antara manusia, Tuhan, and alam melalui filosofi pohon kehidupan (Batang Garing). Motif ini mengisahkan keseimbangan kosmis, mengajarkan manusia untuk menjaga kelestarian hutan sebagai jantung kehidupan.",
+    "location": "Kalimantan Tengah, Palangkaraya"
+  },
+  {
+    "index": 46,
+    "name": "Batik Lampung Bledheg",
+    "philosophy": "Batik Lampung Bledheg ialah perlambang kekuatan alam dan energi perubahan yang dinamis melalui visualisasi kilatan petir yang kuat. Polanya mengisahkan keberanian dalam mengambil keputusan besar, mengajarkan manusia untuk memberikan dampak positif.",
+    "location": "Lampung, Bandar Lampung"
+  },
+  {
+    "index": 47,
+    "name": "Batik Lampunggajah",
+    "philosophy": "Batik Lampunggajah berasal dari kebijaksanaan dan kekuatan yang tenang, mengisahkan tentang perlindungan serta martabat tinggi penghuni hutan. Ia mengajarkan setiap individu untuk memiliki kesabaran menghadapi masalah besar dan rasa hormat pada alam.",
+    "location": "Lampung, Metro"
+  },
+  {
+    "index": 48,
+    "name": "Batik Lampung Kacang Hijau",
+    "philosophy": "Batik Lampung Kacang Hijau adalah simbol pertumbuhan ekonomi dan kesuburan tanah yang mengisahkan kemanfaatan melimpah dari hal-hal sederhana. Motif ini mengajarkan manusia untuk produktif dan berkontribusi bagi kesejahteraan masyarakat luas.",
+    "location": "Lampung, Pringsewu"
+  },
+  {
+    "index": 49,
+    "name": "Batik Malukupala",
+    "philosophy": "Batik Malukupala ialah cerminan kejayaan sejarah rempah yang pernah mengubah dunia, mengisahkan kebanggaan identitas daerah yang kaya. Ia mengajarkan tentang rasa syukur atas kekayaan alam asli dan semangat untuk meraih kembali kemakmuran.",
+    "location": "Maluku, Ambon"
+  },
+  {
+    "index": 50,
+    "name": "Batik NTB Lumbung",
+    "philosophy": "Batik NTB Lumbung berasal dari ketahanan pangan dan rasa syukur masyarakat melalui simbol arsitektur tempat penyimpanan padi tradisional. Motif ini mengisahkan pentingnya pengelolaan sumber daya yang bijak demi masa depan yang terjamin.",
+    "location": "Nusa Tenggara Barat, Mataram"
+  },
+  {
+    "index": 51,
+    "name": "Batik Papua Asmat",
+    "philosophy": "Batik Papua Asmat adalah simbol penghormatan kepada roh leluhur melalui ukiran kayu yang sakral dan penuh dengan kekuatan spiritual. Motif ini mengisahkan tentang identitas budaya yang teguh, mengajarkan setiap generasi untuk selalu menjaga hubungan sejarah.",
+    "location": "Papua, Asmat"
+  },
+  {
+    "index": 52,
+    "name": "Batik Papua Cendrawasih",
+    "philosophy": "Batik Papua Cendrawasih ialah visualisasi kecantikan surga yang nyata melalui burung ikonik yang merefleksikan kemurnian alam Papua. Ia mengisahkan tentang kebebasan jiwa, mengajarkan manusia untuk menjaga keanggunan budi pekerti serta kelestarian hayati.",
+    "location": "Papua, Jayapura"
+  },
+  {
+    "index": 53,
+    "name": "Batik Papua Tifa",
+    "philosophy": "Batik Papua Tifa berasal dari irama kehidupan dan alat komunikasi pemersatu yang mengisahkan tentang kebersamaan dalam setiap perayaan adat. Motif ini mengajarkan pentingnya menyuarakan kebenaran dan menjaga harmoni melalui seni budaya.",
+    "location": "Papua, Merauke"
+  },
+  {
+    "index": 54,
+    "name": "Batik Sulawesi Selatan Lontara",
+    "philosophy": "Batik Sulawesi Selatan Lontara adalah simbol nilai kejujuran dan keberanian masyarakat melalui filosofi aksara kuno yang sarat makna. Ia mengisahkan tentang integritas diri dan kesetiaan pada janji, mengajarkan manusia untuk memegang teguh prinsip moral.",
+    "location": "Sulawesi Selatan, Makassar"
+  },
+  {
+    "index": 55,
+    "name": "Batik Sumatera Barat Rumah Minang",
+    "philosophy": "Batik Sumatera Barat Rumah Minang ialah perlambang kemegahan adat dan sistem kekerabatan yang kuat melalui arsitektur rumah gadang yang megah. Motif ini mengisahkan tentang kehormatan keluarga, mengajarkan keteguhan memegang tradisi.",
+    "location": "Sumatera Barat, Padang"
+  },
+  {
+    "index": 56,
+    "name": "Batik Sumatera Utara Boraspati",
+    "philosophy": "Batik Sumatera Utara Boraspati berasal dari kebijaksanaan dan perlindungan rumah tangga yang disimbolkan oleh sosok cicak dalam budaya Batak. Ia mengisahkan kemampuan adaptasi yang cerdas, mengajarkan manusia untuk selalu waspada demi keselamatan keluarga.",
+    "location": "Sumatera Utara, Toba"
+  },
+  {
+    "index": 57,
+    "name": "Batik Sumatera Utara Pintu Aceh",
+    "philosophy": "Batik Sumatera Utara Pintu Aceh adalah simbol keterbukaan masyarakat yang tetap memiliki pagar moral kokoh dalam menjaga kedaulatan diri. Ia mengisahkan tentang toleransi dan keramah-tamahan, mengajarkan manusia untuk menerima pengaruh luar secara bijak.",
+    "location": "Sumatera Utara, Medan"
+  },
+  {
+    "index": 58,
+    "name": "Batik Yogyakarta Brendi",
+    "philosophy": "Batik Yogyakarta Brendi ialah motif yang merefleksikan keteguhan hati dan kemapanan karakter dalam menghadapi berbagai dinamika sosial. Ia mengisahkan tentang kestabilan jiwa, mengajarkan manusia untuk memiliki kematangan dalam mengelola tanggung jawab besar.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 59,
+    "name": "Batik Yogyakarta Cakarayam",
+    "philosophy": "Batik Yogyakarta Cakarayam berasal dari simbol kemandirian dan kegigihan mencari rezeki yang halal dengan usaha sendiri yang ulet. Melalui pola jejak kaki ayam, ia mengisahkan semangat pantang menyerah dalam mencapai kesejahteraan hidup yang berkah.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 60,
+    "name": "Batik Yogyakarta Ceplokliring",
+    "philosophy": "Batik Yogyakarta Ceplokliring adalah cerminan keteraturan alam semesta dan keselarasan hubungan bermasyarakat melalui tatanan geometris yang serasi. Ia mengisahkan tentang pentingnya visi hidup yang jelas, mengajarkan manusia untuk memiliki pemikiran yang tertata.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 61,
+    "name": "Batik Yogyakarta Gendhangan",
+    "philosophy": "Batik Yogyakarta Gendhangan ialah motif yang terinspirasi dari alat musik kendang, melambangkan peran pemimpin sebagai pengatur irama kehidupan. Ia mengisahkan tanggung jawab sosial, mengajarkan pentingnya menyelaraskan perbedaan menjadi satu harmoni.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 62,
+    "name": "Batik Yogyakarta Jayakirana",
+    "philosophy": "Batik Yogyakarta Jayakirana berasal dari cahaya kemenangan yang membawa terang bagi kegelapan dan harapan bagi jiwa yang berjuang. Motif ini mengisahkan kecemerlangan intelektual, mengajarkan manusia untuk senantiasa menjadi inspirasi positif bagi sesamanya.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 63,
+    "name": "Batik Yogyakarta Karawitan",
+    "philosophy": "Batik Yogyakarta Karawitan adalah perlambang kehalusan rasa dan kelembutan budi pekerti yang tumbuh dari nilai-nilai musik tradisional. Ia mengisahkan tentang empati yang mendalam, mengajarkan manusia untuk bertutur kata santun dalam setiap interaksi sosial.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 64,
+    "name": "Batik Yogyakarta Kawung",
+    "philosophy": "Batik Yogyakarta Kawung ialah salah satu motif tertua yang merefleksikan kesucian hati dan pengendalian diri yang sempurna secara utuh. Mengisahkan tentang kemanfaatan manusia, ia mengajarkan bahwa setiap individu harus memberikan kegunaan bagi sesamanya secara tulus.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 65,
+    "name": "Batik Yogyakarta Klampokarum",
+    "philosophy": "Batik Yogyakarta Klampokarum berasal dari keharuman reputasi yang dijaga melalui perilaku benar dan integritas moral yang tinggi. Polanya mengisahkan tentang pentingnya menjaga nama baik, mengajarkan bahwa kehormatan diri jauh lebih berharga daripada harta.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 66,
+    "name": "Batik Yogyakarta Kuncupkanthil",
+    "philosophy": "Batik Yogyakarta Kuncupkanthil adalah simbol awal dari pengabdian yang tulus dan kasih sayang yang baru tumbuh dengan indahnya. Motif ini mengisahkan tentang perkembangan karakter positif, mengajarkan manusia untuk setia pada nilai-nilai luhur.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 67,
+    "name": "Batik Yogyakarta Manggar",
+    "philosophy": "Batik Yogyakarta Manggar ialah perlambang kemanfaatan manusia yang luas layaknya pohon kelapa yang berguna dari akar hingga pucuknya. Ia mengisahkan tentang produktivitas, mengajarkan filosofi agar setiap keberadaan kita mampu memberikan nilai tambah.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 68,
+    "name": "Batik Yogyakarta Parangcurigo",
+    "philosophy": "Batik Yogyakarta Parangcurigo berasal dari kewaspadaan diri dan ketajaman intelegensi yang disimbolkan melalui visualisasi keris yang tersamar. Ia mengisahkan tentang kedaulatan jiwa, mengajarkan manusia untuk bijaksana dalam memecahkan masalah.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 69,
+    "name": "Batik Yogyakarta Parangrusak",
+    "philosophy": "Batik Yogyakarta Parangrusak adalah motif sakral yang merefleksikan perjuangan batin melawan hawa nafsu layaknya ombak menghantam karang. Ia mengisahkan tentang kekuatan mental dan ketabahan, mengajarkan manusia untuk tetap kokoh memegang prinsip.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 70,
+    "name": "Batik Yogyakarta Parangtuding",
+    "philosophy": "Batik Yogyakarta Parangtuding ialah simbol petunjuk jalan yang benar dan kepemimpinan yang membimbing dengan penuh kasih sayang. Ia mengisahkan tanggung jawab moral, mengajarkan setiap individu untuk menjadi teladan yang memberikan arahan positif.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 71,
+    "name": "Batik Yogyakarta Sekarandhong",
+    "philosophy": "Batik Yogyakarta Sekarandhong berasal dari perlindungan batin dan penyembuhan spiritual yang merefleksikan ketenangan hidup masyarakat. Motif bunga ini mengisahkan tentang penetralisir konflik, mengajarkan manusia untuk hidup damai dan bijaksana.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 72,
+    "name": "Batik Yogyakarta Sekarblimbing",
+    "philosophy": "Batik Yogyakarta Sekarblimbing adalah simbol kemurnian cita-cita dan kerendahhatian dalam meraih kesuksesan hidup yang diimpikan. Ia mengisahkan tentang pentingnya proses, mengajarkan manusia bahwa keberhasilan sejati adalah yang tetap membuat pelakunya membumi.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 73,
+    "name": "Batik Yogyakarta Sekarcengkeh",
+    "philosophy": "Batik Yogyakarta Sekarcengkeh ialah perlambang ketangguhan ekonomi dan manfaat kesehatan yang harum bagi masyarakat luas. Melalui simbol cengkeh, ia mengisahkan tentang nilai guna yang tinggi, mengajarkan manusia untuk bekerja tekun demi berkah bersama.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 74,
+    "name": "Batik Yogyakarta Sekardangan",
+    "philosophy": "Batik Yogyakarta Sekardangan berasal dari kesiapan jiwa dalam mengemban tanggung jawab mulia demi kemajuan lingkungan sosial. Ia mengisahkan semangat pengabdian tanpa pamrih, mengajarkan ketelitian dalam setiap pekerjaan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 75,
+    "name": "Batik Yogyakarta Sekardhuku",
+    "philosophy": "Batik Yogyakarta Sekardhuku adalah simbol kesabaran dalam menunggu hasil yang manis melalui ketekunan merawat niat baik. Ia mengisahkan tentang kematangan batin yang membutuhkan waktu, mengajarkan manusia untuk menghargai setiap tahap pertumbuhan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 76,
+    "name": "Batik Yogyakarta Sekardlima",
+    "philosophy": "Batik Yogyakarta Sekardlima ialah perlambang kelimpahan ide dan kekayaan spiritual melalui visualisasi buah yang kaya akan manfaat. Motif ini mengisahkan tentang produktivitas pemikiran, mengajarkan manusia untuk menghasilkan karya bagi kemaslahatan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 77,
+    "name": "Batik Yogyakarta Sekarduren",
+    "philosophy": "Batik Yogyakarta Sekarduren berasal dari perlindungan diri yang kuat di luar namun memiliki kelembutan kasih sayang di dalam jiwa. Ia mengisahkan tentang integritas karakter, mengajarkan pentingnya menjaga prinsip yang kokoh tanpa kehilangan empati.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 78,
+    "name": "Batik Yogyakarta Sekargambir",
+    "philosophy": "Batik Yogyakarta Sekargambir adalah simbol ketenangan hati dan kemampuan meredam konflik melalui diplomasi yang santun. Motif bunga ini mengisahkan kearifan berkomunikasi, mengajarkan manusia untuk selalu mencari jalan tengah yang damai.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 79,
+    "name": "Batik Yogyakarta Sekargayam",
+    "philosophy": "Batik Yogyakarta Sekargayam ialah perlambang keteduhan jiwa dan perlindungan pemimpin terhadap rakyatnya. Terinspirasi dari pohon yang rindang, ia mengisahkan tentang tempat bersandar yang aman, mengajarkan setiap individu untuk menjadi peneduh bagi sesama.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 80,
+    "name": "Batik Yogyakarta Sekarjagung",
+    "philosophy": "Batik Yogyakarta Sekarjagung berasal dari kemakmuran pangan dan rasa syukur atas hasil bumi yang melimpah. Ia mengisahkan tentang ketahanan agraris, mengajarkan manusia untuk menghargai setiap butir rezeki yang didapatkan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 81,
+    "name": "Batik Yogyakarta Sekarjali",
+    "philosophy": "Batik Yogyakarta Sekarjali adalah perlambang ketelitian dalam mengumpulkan kebajikan kecil menjadi kemuliaan besar. Melalui simbol tanaman jali, ia mengisahkan tentang kesabaran berproses, mengajarkan manusia bahwa kualitas hidup ditentukan oleh detail kebaikan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 82,
+    "name": "Batik Yogyakarta Sekarjeruk",
+    "philosophy": "Batik Yogyakarta Sekarjeruk ialah simbol kesegaran pikiran dan optimisme dalam menatap masa depan. Motif bunga ini mengisahkan tentang energi positif, mengajarkan manusia untuk selalu memancarkan semangat baru bagi lingkungan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 83,
+    "name": "Batik Yogyakarta Sekarkeben",
+    "philosophy": "Batik Yogyakarta Sekarkeben berasal dari pembersihan diri dari kesalahan dan harapan akan hati yang murni. Terinspirasi dari pohon sakral, ia mengisahkan tentang keberanian introspeksi diri, mengajarkan manusia untuk selalu memperbaiki karakter.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 84,
+    "name": "Batik Yogyakarta Sekarkemuning",
+    "philosophy": "Batik Yogyakarta Sekarkemuning adalah simbol kejayaan dan kecemerlangan intelektual melalui simbol warna emas bunga kemuning. Ia mengisahkan tentang kemuliaan hidup yang dicapai melalui ilmu pengetahuan, mengajarkan manusia untuk terus belajar.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 85,
+    "name": "Batik Yogyakarta Sekarkenanga",
+    "philosophy": "Batik Yogyakarta Sekarkenanga ialah perlambang keharuman nama baik yang abadi melalui warisan kebajikan. Motif ini mengisahkan tentang pentingnya jejak positif, mengajarkan manusia untuk menjaga perilaku agar tetap selaras dengan nilai luhur.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 86,
+    "name": "Batik Yogyakarta Sekarkenikir",
+    "philosophy": "Batik Yogyakarta Sekarkenikir berasal dari keindahan sederhana namun memiliki ketahanan kuat di tengah dinamika masyarakat. Ia mengisahkan tentang kekuatan mental rakyat, mengajarkan manusia untuk tetap tumbuh meski dalam kondisi terbatas.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 87,
+    "name": "Batik Yogyakarta Sekarkenthang",
+    "philosophy": "Batik Yogyakarta Sekarkenthang adalah simbol kemanfaatan yang tersembunyi namun vital bagi kelangsungan hidup masyarakat. Ia mengisahkan tentang kerendahhatian seorang pekerja keras, mengajarkan manusia untuk berkontribusi besar tanpa panggung.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 88,
+    "name": "Batik Yogyakarta Sekarkepel",
+    "philosophy": "Batik Yogyakarta Sekarkepel ialah perlambang kehalusan budi dan kecantikan batin para putri keraton. Motif ini mengisahkan tentang perawatan jiwa, mengajarkan manusia untuk menjaga citra diri melalui kelembutan tutur kata.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 89,
+    "name": "Batik Yogyakarta Sekarketongkeng",
+    "philosophy": "Batik Yogyakarta Sekarketongkeng berasal dari keunikan bakat dan kemampuan menarik perhatian melalui prestasi nyata. Ia mengisahkan tentang pengembangan potensi diri, mengajarkan manusia untuk memaksimalkan setiap anugerah yang dimiliki.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 90,
+    "name": "Batik Yogyakarta Sekarlintang",
+    "philosophy": "Batik Yogyakarta Sekarlintang adalah simbol harapan tinggi dan cita-cita yang menjulang ke langit. Motif bunga bintang ini mengisahkan tentang visi hidup yang terang, mengajarkan manusia untuk memiliki keyakinan kuat pada setiap kerja keras.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 91,
+    "name": "Batik Yogyakarta Sekarmanggis",
+    "philosophy": "Batik Yogyakarta Sekarmanggis ialah perlambang kejujuran antara batin dan lahiriah melalui filosofi buah yang unik. Ia mengisahkan tentang integritas moral, mengajarkan manusia untuk selaras antara ucapan dan perbuatan secara nyata.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 92,
+    "name": "Batik Yogyakarta Sekarmenur",
+    "philosophy": "Batik Yogyakarta Sekarmenur berasal dari kemurnian jiwa dan ketulusan niat dalam melayani sesama manusia. Melalui simbol melati liar, ia mengisahkan kesucian hidup, mengajarkan manusia untuk tetap sederhana namun memberkati.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 93,
+    "name": "Batik Yogyakarta Sekarmindi",
+    "philosophy": "Batik Yogyakarta Sekarmindi adalah simbol ketangguhan diri dan empati sosial untuk memberikan perlindungan bagi yang lemah. Mengambil manfaat pohon mindi, ia mengisahkan tentang kemanusiaan, mengajarkan manusia untuk siap menjadi penolong.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 94,
+    "name": "Batik Yogyakarta Sekarmlathi",
+    "philosophy": "Batik Yogyakarta Sekarmlathi ialah perlambang kesucian dan cinta kasih tulus yang tidak lekang oleh waktu. Motif melati ini mengisahkan tentang keindahan yang abadi, mengajarkan setiap individu untuk menjaga kemurnian niat.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 95,
+    "name": "Batik Yogyakarta Sekarmrica",
+    "philosophy": "Batik Yogyakarta Sekarmrica berasal dari kekuatan besar yang tersimpan dalam hal-hal kecil melalui simbol tanaman merica. Ia mengisahkan tentang pengaruh luas, mengajarkan manusia untuk tidak meremehkan detail kecil dalam perjuangan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 96,
+    "name": "Batik Yogyakarta Sekarmundhu",
+    "philosophy": "Batik Yogyakarta Sekarmundhu adalah simbol kesederhanaan dan keteguhan hati dalam memegang prinsip hidup yang jujur. Melalui simbol buah mundhu, ia mengisahkan martabat rakyat, mengajarkan manusia untuk merasa cukup dan bersyukur.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 97,
+    "name": "Batik Yogyakarta Sekarnangka",
+    "philosophy": "Batik Yogyakarta Sekarnangka ialah perlambang kemakmuran yang manis dan perlindungan terhadap nilai-nilai inti dalam keluarga. Motif buah ini mengisahkan tentang keutuhan rumah tangga, mengajarkan manusia untuk merawat hubungan dengan kasih.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 98,
+    "name": "Batik Yogyakarta Sekarpacar",
+    "philosophy": "Batik Yogyakarta Sekarpacar berasal dari keceriaan dan warna-warni semangat hidup dalam merayakan setiap momen berharga. Ia mengisahkan tentang optimisme jiwa, mengajarkan manusia untuk selalu menemukan kebahagiaan di tengah rutinitas.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 99,
+    "name": "Batik Yogyakarta Sekarpala",
+    "philosophy": "Batik Yogyakarta Sekarpala adalah simbol kekayaan intelektual dan manfaat pemiriman yang luas bagi kemajuan peradaban. Melalui simbol buah pala, ia mengisahkan tentang kedalaman wawasan, mengajarkan manusia untuk terus mengasah kecerdasan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 100,
+    "name": "Batik Yogyakarta Sekarpijetan",
+    "philosophy": "Batik Yogyakarta Sekarpijetan ialah perlambang kelembutan perhatian dan kasih sayang mendetail dalam merawat hubungan. Ia mengisahkan tentang empati yang tulus, mengajarkan manusia untuk menjadi pendengar yang baik bagi sesama.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 101,
+    "name": "Batik Yogyakarta Sekarpudhak",
+    "philosophy": "Batik Yogyakarta Sekarpudhak berasal dari kemuliaan tersembunyi yang akan terungkap melalui pembuktian karya yang nyata. Motif ini mengisahkan tentang kualitas batin, mengajarkan manusia agar fokus pada pengembangan diri hingga saatnya tiba.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 102,
+    "name": "Batik Yogyakarta Sekarrandhu",
+    "philosophy": "Batik Yogyakarta Sekarrandhu adalah simbol kenyamanan dan keteduhan jiwa yang memberikan kelembutan bagi sesama. Melalui simbol pohon randu, ia mengisahkan tentang sifat pemaaf, mengajarkan setiap individu untuk menjadi pribadi yang berjiwa besar.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 103,
+    "name": "Batik Yogyakarta Sekarsawo",
+    "philosophy": "Batik Yogyakarta Sekarsawo ialah perlambang kematangan jiwa dan kesabaran dalam bertindak untuk hasil yang manis. Melalui simbol buah sawo, ia mengisahkan tentang kestabilan karakter, mengajarkan manusia untuk konsisten dalam kebenaran.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 104,
+    "name": "Batik Yogyakarta Sekarsoka",
+    "philosophy": "Batik Yogyakarta Sekarsoka berasal dari kebahagiaan sejati dan terbebasnya batin dari belenggu kesedihan duniawi. Motif ini mengisahkan tentang kedamaian hati, mengajarkan manusia untuk selalu bersyukur dan menjaga api kegembiraan.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 105,
+    "name": "Batik Yogyakarta Sekarsrengenge",
+    "philosophy": "Batik Yogyakarta Sekarsrengenge adalah simbol kesetiaan kepada sumber kebenaran dan optimisme mengikuti cahaya. Melalui simbol matahari, ia mengisahkan keberanian menghadapi tantangan, mengajarkan manusia untuk selalu memandang sisi terang.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 106,
+    "name": "Batik Yogyakarta Sekarsrigadhing",
+    "philosophy": "Batik Yogyakarta Sekarsrigadhing ialah perlambang kemuliaan yang mekar di saat yang tepat bagi mereka yang sabar berjuang. Ia mengisahkan tentang harapan akan kejayaan, mengajarkan setiap individu untuk menjaga integritas nama baik.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 107,
+    "name": "Batik Yogyakarta Sekartanjung",
+    "philosophy": "Batik Yogyakarta Sekartanjung berasal dari keteguhan cinta dan keabadian nilai luhur yang tidak mudah layu oleh zaman. Motif bunga ini mengisahkan tentang kesetiaan prinsip, mengajarkan manusia untuk konsisten memberikan manfaat bagi dunia.",
+    "location": "DI Yogyakarta"
+  },
+  {
+    "index": 108,
+    "name": "Batik Yogyakarta Sekartebu",
+    "philosophy": "Batik Yogyakarta Sekartebu ialah perlambang manisnya akhir dari sebuah perjuangan pahit dan pertumbuhan yang subur. Ia mengisahkan tentang kesabaran dalam menanti panen kehidupan, mengajarkan setiap jiwa untuk bersyukur atas berkah kemakmuran.",
+    "location": "DI Yogyakarta"
+  }
+]

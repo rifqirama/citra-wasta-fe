@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://citra-wastra.vercel.app/sitemap.xml
