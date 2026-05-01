@@ -62,7 +62,7 @@ const HeroSection: React.FC = () => {
   };
 
   return (
-    <section className="relative overflow-hidden bg-white dark:bg-gray-900 transition-colors grid-hero-bg">
+    <section className="relative overflow-hidden bg-white dark:bg-gray-900 transition-colors">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-12 md:pt-20 md:pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
           <motion.div
