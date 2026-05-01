@@ -1,0 +1,33 @@
+name: React CI
+
+# Workflow ini akan berjalan setiap ada Pull Request ke branch main
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Mengambil kode dari repository
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # 2. Menyiapkan Node.js
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20' # Gunakan versi Node yang kamu pakai
+
+    # 3. Menginstall dependencies (npm install)
+    - name: Install Dependencies
+      run: npm install
+
+    # 4. Menjalankan Linter (opsional tapi sangat disarankan)
+    - name: Run Linter
+      run: npm run lint
+
+    # 5. Mengecek apakah kode bisa di-build dengan sukses
+    - name: Build Project
+      run: npm run build
